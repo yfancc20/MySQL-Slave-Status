@@ -4,8 +4,8 @@ A simple shell script for checking the status of MySQL's replication.
 Normally, SLAVE will block if it encounter some unexpected errors when it syncs with MASTER. This can help sending the email of the status.
 
 ## Function
-1. Automatically send mail
-2. Monthly report check
+1. Automatically sending mail
+2. Monthly report checking
 
 ## Usage
 1. Create a user for showing status only.
