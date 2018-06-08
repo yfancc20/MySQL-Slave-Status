@@ -3,7 +3,7 @@
 user=your-username
 pass=your-password
 email=email-address
-log_file=/var/log/mysql_status.log
+log_file=/var/log/mysql_slave.log
 
 function send_mail {
         # $1:contents, $2:subject
