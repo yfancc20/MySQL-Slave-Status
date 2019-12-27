@@ -1,7 +1,8 @@
-# MySQL-Slave-Status
-A simple shell script for checking the status of MySQL's replication.
+# MySQL Slave Status Mail
+A simple shell script for checking the status of MySQL's replication based on Linux system.
 
-Normally, SLAVE will block if it encounter some unexpected errors when it syncs with MASTER. This can help sending the email of the status.
+Normally, SLAVE will block if it encounter some unexpected errors when it syncs with MASTER. 
+This script can help sending the email of the status.
 
 ## Function
 1. Automatically sending mail
